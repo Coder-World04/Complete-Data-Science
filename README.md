@@ -1,4 +1,4 @@
-# Complete-Data-Science
+# Complete Data Science Series
 This repository contains everything you need to become proficient in Data Science
 
 ![image](https://user-images.githubusercontent.com/93926742/144416831-ef6ad518-2963-403f-a13b-dba150f5e6ec.png)
