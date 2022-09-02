@@ -149,7 +149,7 @@ Where to find Day 17 post : [Link](https://medium.datadriveninvestor.com/day-17-
 
 In this post we developed an intuition and implemented DecisionTreeRegressor and RandomForestRegressor through a project.
 
-Where to find Day 18 post : [Link](https://naina0412.medium.com/day-18-60-days-of-data-science-and-machine-learning-38c7a46f5496)
+Where to find Day 18 post: [Link](https://naina0412.medium.com/day-18-60-days-of-data-science-and-machine-learning-38c7a46f5496)
 
 -----------
 
