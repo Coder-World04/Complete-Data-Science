@@ -18,7 +18,7 @@ Where to find Day 1 post: [Link](https://medium.datadriveninvestor.com/60-days-o
 
 **Day 2 : Python Basics with Code Implementation — Part 2**
 
-In this post we covered end to end Python Basics ( Part 2) that you should know. Topics like Python Lists and Dictionaries, Sets, Tuples etc are covered in detail.
+In this post we covered end to end Python Basics ( Part 2) that you should know.Topics like Python Lists and Dictionaries, Sets, Tuples etc are covered in detail.
 
 Where to find Day 2 post : [Link](https://medium.datadriveninvestor.com/day-2-60-days-of-data-science-and-machine-learning-series-5ef21f098454)
 
