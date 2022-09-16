@@ -123,7 +123,7 @@ Where to find Day 14 post : [Link](https://medium.datadriveninvestor.com/day-14-
 
 **Day 15: Regression Part 2 with Code Implementation**
 
-In this post where we learned/implemented Hands on Regression in depth — Part 2. Topics like Support Vector Regression, Decision Tree Regression and Random Forest Regression are covered in detail.
+In this post where we learned/implemented Hands on Regression in depth — Part 2 . Topics like Support Vector Regression, Decision Tree Regression and Random Forest Regression are covered in detail.
 
 Where to find Day 15 post : [Link](https://medium.datadriveninvestor.com/day-15-60-days-of-data-science-and-machine-learning-65d582dc293a)
 
