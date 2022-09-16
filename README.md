@@ -265,7 +265,7 @@ Where to find Day 33 post : [Link](https://medium.com/coders-mojo/day-33-60-days
 ----------
 **Day 34 : Logistic regression with another project**
 
-In this post we covered logistic regression with another project.
+In this post we covered logistic regression with another project .
 
 Where to find Day 34 post : [Link](https://medium.com/coders-mojo/day-34-60-days-of-data-science-and-machine-learning-series-420df19d1ec0)
 
