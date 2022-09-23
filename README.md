@@ -99,7 +99,7 @@ Where to find Day 11 post : [Link](https://medium.datadriveninvestor.com/day-11-
 
 **Day 12:Data Pre-processing Part 1 with Code Implementation**
 
-In this post we learned/implemented Hands on Data Pre-processing in depth — Part 1. Data preprocessing , one of the first and crucial step — the process in which we prepare the raw data and make it suitable for a ML model to increase its accuracy and efficiency.
+In this post we learned/implemented Hands on Data Pre-processing in depth — Part 1 . Data preprocessing , one of the first and crucial step — the process in which we prepare the raw data and make it suitable for a ML model to increase its accuracy and efficiency.
 
 Where to find Day 12 post : [Link](https://medium.datadriveninvestor.com/day-12-60-days-of-data-science-and-machine-learning-1264f9c31b77)
 
