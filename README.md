@@ -131,7 +131,7 @@ Where to find Day 15 post : [Link](https://medium.datadriveninvestor.com/day-15-
 
 **Day 16:Reflect and Connect the dots**
 
-In this we covered various Data Science and ML projects.
+In this we covered various Data Science and ML projects .
 
 Where to find Day 16 post : [Link](https://medium.datadriveninvestor.com/day-16-60-days-of-data-science-and-machine-learning-1e8340650e4)
 
