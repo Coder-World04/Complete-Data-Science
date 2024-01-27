@@ -3,7 +3,7 @@ This repository contains everything you need to become proficient in Data Scienc
 
 ![image](https://user-images.githubusercontent.com/93926742/144416831-ef6ad518-2963-403f-a13b-dba150f5e6ec.png)
 
-
+Youtube for all the implemented projects and tech interview resources - [Ignito Youtube Channel](https://www.youtube.com/@ignito5917/about)
 
 ----------
 
